@@ -2,4 +2,8 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="yandex_forecast_details_sign_text_dimen">20sp</dimen>
+    <dimen name="yandex_forecast_details_text_dimen">20sp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="card_view_layout_margin">8dp</dimen>
 </resources>

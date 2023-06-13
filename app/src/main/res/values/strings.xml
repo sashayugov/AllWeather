@@ -1,6 +1,14 @@
 <resources>
     <string name="app_name">AllWeather</string>
-    <string name="title_home">Home</string>
+    <string name="yandex_weather">Яндекс</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="yandex_fells_like_sign">ощущается как: </string>
+    <string name="wind_speed">скорость ветра:</string>
+    <string name="wind_direction">направление ветра:</string>
+    <string name="atm_pressure">атмосферное давление:</string>
+    <string name="humidity">влажность:</string>
+    <string name="yandex_week_forecast_header">Прогноз на неделю</string>
+    <string name="day">День</string>
+    <string name="night">Ночь</string>
 </resources>
